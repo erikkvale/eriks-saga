@@ -15,8 +15,12 @@ theme:
         name: Switch to light mode
 nav:
     - 'index.md'
-    - 'experience.md'
-    - 'education.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
     
 
 
