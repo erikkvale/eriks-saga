@@ -1,6 +1,7 @@
 # Erik Kvale
 
 ## Background & Ethos
+Believer in democracy, security, privacy, open source, rational thinking and first principles. Thoughtful and thorough engineer who wants to push the envelope and continue to find value in what I do.
 
 
 ## Experience
@@ -27,9 +28,10 @@
     
     Data Engineering consulting across multiple industries and projects
 
-    - Building out data pipelines and data flows to support downstream data scientists
+    - Built out data pipelines and data flows to support downstream data scientists
     - Extensive work with Hadoop ecosystem: HDFS, MapReduce, Hive, Impala.
-    - Working on cloud native data engineering projects in AWS
+    - Worked on cloud native data engineering projects in AWS including
+    corporate IAM user federation and database migrations.
 
 
 ??? note "Senior Software Engineer - AcuStaf Development Corporation"     
